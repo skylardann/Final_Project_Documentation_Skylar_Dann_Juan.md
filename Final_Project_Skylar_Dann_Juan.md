@@ -4,7 +4,6 @@ Final Project P&E
 Team: Skylar, Juan  
 
 **Summary**
-
         The music visualization device is a three dimensional sculpture that captures the energy and the flow of music, by reading different sound frequencies and translating sound waves into voltage, which output into color and movement represented through LED lights reflected in a three dimensional space. The sound reader is able to capture any type of sound, making possible a powerful tool to visualize sound. Essentially our project is a audio visualizer that will be represented in a three dimensional space by translating amplitude into colors and movements. 
 
 Different sounds will represent different ranges of amplitudes and thus, different outputs in color and motion, making the intangible representation of sound a tangible visualization. 
