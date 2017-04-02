@@ -11,7 +11,6 @@ Different sounds will represent different ranges of amplitudes and thus, differe
 **Component Parts**
 
 **Hardware **
-
 SparkFun Sound Detector 
 SparkFun RedBoard - Programmed with Arduino
 Leds (not decided specifically, how many) 
