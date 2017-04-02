@@ -8,9 +8,9 @@ Team: Skylar, Juan
 
 Different sounds will represent different ranges of amplitudes and thus, different outputs in color and motion, making the intangible representation of sound a tangible visualization. 
 
-**Component Parts**
+**Component Parts
 
-**Hardware *
+**Hardware**
 SparkFun Sound Detector 
 SparkFun RedBoard - Programmed with Arduino
 Leds (not decided specifically, how many) 
