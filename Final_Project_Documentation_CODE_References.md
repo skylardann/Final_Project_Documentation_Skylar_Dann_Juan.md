@@ -1,5 +1,5 @@
 
-**Final Documentation and Description of the Project*
+**Final Documentation and Description of the Project**
 
 **What We Did**
  
