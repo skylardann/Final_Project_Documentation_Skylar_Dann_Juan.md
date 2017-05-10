@@ -1,7 +1,7 @@
 
 Final Documentation and Description of the project 
 
-**What you did
+*What you did*
  
  In our project we did a Bike Security system connected over cellular 
  Network. The device notifies you when your bicycle has been stolen or tampered with.  A built in accelerometer reads for changes in the acceleration thresholds and triggers a notification that will be sent to your phone. The system includes a GPS module, so when someone tries to steal your bike, you will know when it is being taken, and where is it going. Create a device that will 
